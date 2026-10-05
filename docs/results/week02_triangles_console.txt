@@ -1,0 +1,10 @@
+# week02_triangles: L, L, W, W, C, Esc
+
+## stdout
+OpenGL 3.3.14761 Core Profile Context 21.30.02.01 30.0.13002.1001 | AMD Radeon(TM) Graphics
+Controls: L - line loop, W - wireframe, C - palette, Esc - quit
+Primitive: GL_LINE_LOOP
+Primitive: GL_TRIANGLES
+Polygon mode: GL_LINE
+Polygon mode: GL_FILL
+Palette: 1

@@ -1,0 +1,6 @@
+# week02_grid: W, W, изменение размера окна до 500x800, Esc
+
+## stdout
+OpenGL 3.3.14761 Core Profile Context 21.30.02.01 30.0.13002.1001 | AMD Radeon(TM) Graphics
+Grid 3x4: 12 cells, 72 vertices
+Controls: W - wireframe, Esc - quit

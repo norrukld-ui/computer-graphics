@@ -1,0 +1,19 @@
+# week01: запуск, Space, Space, V (VSync вкл), V (VSync выкл), Esc
+
+## stdout
+Vendor:   ATI Technologies Inc.
+Renderer: AMD Radeon(TM) Graphics
+OpenGL:   3.3.14761 Core Profile Context 21.30.02.01 30.0.13002.1001
+GLSL:     4.60
+Controls: Space - background, V - vsync, Esc - quit
+FPS: 2671
+FPS: 3018
+FPS: 2899
+FPS: 2944
+VSync: on
+FPS: 1874
+FPS: 165
+FPS: 165
+VSync: off
+FPS: 2117
+FPS: 2840

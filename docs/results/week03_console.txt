@@ -1,0 +1,20 @@
+# week03: I, I, U, U, B (сломанный шейдер), R (перезагрузка), Esc
+
+## stdout
+Controls: I - invert, U - same color, R - reload shaders, B - load broken shader, Esc - quit
+Invert: on
+Invert: off
+Vertex colors: all the same
+Vertex colors: red / green / blue
+Loading <repo>/week03/shaders/broken.frag ...
+Keeping the previous working shader
+Loading <repo>/week03/shaders/triangle.frag ...
+Shaders reloaded
+
+## stderr
+[compile error] <repo>/week03/shaders/broken.frag
+Fragment shader failed to compile with the following errors:
+ERROR: 0:13: error(#143) Undeclared identifier: vertexColour
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+
